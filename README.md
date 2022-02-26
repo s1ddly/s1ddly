@@ -1,4 +1,4 @@
-# Hi there 👋
+# Howdy 👋
 My name is Sid, I am an aspiring young engineer with a constantly expanding skillset and a very keen interest in technology.  
 
 ## Current Projects
